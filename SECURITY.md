@@ -1,4 +1,4 @@
-# Niro Team Security Policy 🔒
+# 🔒 Niro Team Security Policy
 
 ## Introduction
 
